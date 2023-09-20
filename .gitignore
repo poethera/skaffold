@@ -24,3 +24,4 @@ fs/assets/check.txt
 secrets/keys.json
 integration/testdata/dev/foo
 pkg/skaffold/build/app.tar
+.DS_Store

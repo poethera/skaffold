@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: sjtest
+spec:
+  containers:
+    - name: sjtest-ko2
+      image: poethera/skaffold:sjtest-ko2
